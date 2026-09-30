@@ -1,0 +1,6 @@
+{
+  "name": "Credit Assistant",
+  "description": "AI-Powered Credit Health & Financial Wellness Platform for monitoring CIBIL scores, credit utilization, DTI, debt reduction, and personalized AI financial guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
